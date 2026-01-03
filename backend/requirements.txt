@@ -11,3 +11,4 @@ langchain
 langchain-groq
 langgraph
 langchain-core
+ruff
